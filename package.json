@@ -1,0 +1,15 @@
+{
+  "name": "p2p-app",
+  "version": "0.0.1",
+  "description": "A Serverless Project and its Serverless Plugin dependencies.",
+  "author": "me",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mmdonaldson/app-serverless.git"
+  },
+  "dependencies": {
+    "dynamodb": "^0.3.6"
+  }
+}
